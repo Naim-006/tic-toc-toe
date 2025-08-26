@@ -1,0 +1,5 @@
+{
+  "name": "Neon Tic-Tac-Toe",
+  "description": "A classic Tic-Tac-Toe game with a glowing neon aesthetic, featuring two-player and AI opponent modes. Includes settings for sound, music, and vibration to customize your experience.",
+  "requestFramePermissions": []
+}
