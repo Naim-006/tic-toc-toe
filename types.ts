@@ -30,3 +30,4 @@ export interface GameState {
   scores: { [key in Player]: number } & { tie: number };
   isAiThinking: boolean;
 }
+
